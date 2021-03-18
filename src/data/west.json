@@ -1,0 +1,182 @@
+[
+  {
+    "TeamID": 334,
+    "Key": "GNZG",
+    "School": "Gonzaga",
+    "Name": "Bulldogs",
+    "Seed": 1,
+    "GlobalTeamID": 60000334,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "GNZG"
+  },
+  {
+    "TeamID": 304,
+    "Key": "TXS",
+    "School": "Texas Southern",
+    "Name": "Tigers",
+    "Seed": 16,
+    "GlobalTeamID": 60000304,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/304.png",
+    "ShortDisplayName": "TXS"
+  },
+  {
+    "TeamID": 191,
+    "Key": "NORFST",
+    "School": "Norfolk State",
+    "Name": "Spartans",
+    "Seed": 16,
+    "GlobalTeamID": 60000191,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/191.png",
+    "ShortDisplayName": "NORFST"
+  },
+  {
+    "TeamID": 209,
+    "Key": "LOYCH",
+    "School": "Loyola Chicago",
+    "Name": "Ramblers",
+    "Seed": 8,
+    "GlobalTeamID": 60000209,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "LOYCH"
+  },
+  {
+    "TeamID": 21,
+    "Key": "NCAR",
+    "School": "North Carolina",
+    "Name": "Tar Heels",
+    "Seed": 9,
+    "GlobalTeamID": 60000021,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/21.png",
+    "ShortDisplayName": "UNC"
+  },
+  {
+    "TeamID": 111,
+    "Key": "TXTECH",
+    "School": "Texas Tech",
+    "Name": "Red Raiders",
+    "Seed": 5,
+    "GlobalTeamID": 60000111,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/111.png",
+    "ShortDisplayName": "TTU"
+  },
+  {
+    "TeamID": 82,
+    "Key": "WINTH",
+    "School": "Winthrop",
+    "Name": "Eagles",
+    "Seed": 12,
+    "GlobalTeamID": 60000082,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "WINTH"
+  },
+  {
+    "TeamID": 22,
+    "Key": "VIR",
+    "School": "Virginia",
+    "Name": "Cavaliers",
+    "Seed": 4,
+    "GlobalTeamID": 60000022,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/22.png",
+    "ShortDisplayName": "VIR"
+  },
+  {
+    "TeamID": 119,
+    "Key": "USCB",
+    "School": "UC Santa Barbara",
+    "Name": "Gauchos",
+    "Seed": 13,
+    "GlobalTeamID": 60000119,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "USCB"
+  },
+  {
+    "TeamID": 277,
+    "Key": "TENN",
+    "School": "Tennessee",
+    "Name": "Volunteers",
+    "Seed": 6,
+    "GlobalTeamID": 60000277,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/277.png",
+    "ShortDisplayName": "TENN"
+  },
+  {
+    "TeamID": 211,
+    "Key": "DRAKE",
+    "School": "Drake",
+    "Name": "Bulldogs",
+    "Seed": 11,
+    "GlobalTeamID": 60000211,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/211.png",
+    "ShortDisplayName": "DRAKE"
+  },
+  {
+    "TeamID": 202,
+    "Key": "WICHST",
+    "School": "Wichita State",
+    "Name": "Shockers",
+    "Seed": 11,
+    "GlobalTeamID": 60000202,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "WICHST"
+  },
+  {
+    "TeamID": 113,
+    "Key": "OKST",
+    "School": "Oklahoma State",
+    "Name": "Cowboys",
+    "Seed": 3,
+    "GlobalTeamID": 60000113,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/113.png",
+    "ShortDisplayName": "OKST"
+  },
+  {
+    "TeamID": 70,
+    "Key": "EWASH",
+    "School": "Eastern Washington",
+    "Name": "Eagles",
+    "Seed": 14,
+    "GlobalTeamID": 60000070,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/70.png",
+    "ShortDisplayName": "EWU"
+  },
+  {
+    "TeamID": 27,
+    "Key": "CLMSN",
+    "School": "Clemson",
+    "Name": "Tigers",
+    "Seed": 7,
+    "GlobalTeamID": 60000027,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/27.png",
+    "ShortDisplayName": "CLEM"
+  },
+  {
+    "TeamID": 253,
+    "Key": "UCLA",
+    "School": "UCLA",
+    "Name": "Bruins",
+    "Seed": 10,
+    "GlobalTeamID": 60000253,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/253.png",
+    "ShortDisplayName": "UCLA"
+  },
+  {
+    "TeamID": 91,
+    "Key": "IOWA",
+    "School": "Iowa",
+    "Name": "Hawkeyes",
+    "Seed": 2,
+    "GlobalTeamID": 60000091,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/91.png",
+    "ShortDisplayName": "IOWA"
+  },
+  {
+    "TeamID": 345,
+    "Key": "GCAN",
+    "School": "Grand Canyon",
+    "Name": "Antelopes",
+    "Seed": 15,
+    "GlobalTeamID": 60000345,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "GCAN"
+  }
+]

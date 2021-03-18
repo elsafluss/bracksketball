@@ -1,0 +1,162 @@
+[
+  {
+    "TeamID": 102,
+    "Key": "ILL",
+    "School": "Illinois",
+    "Name": "Fighting Illini",
+    "Seed": 1,
+    "GlobalTeamID": 60000102,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/102.png",
+    "ShortDisplayName": "ILL"
+  },
+  {
+    "TeamID": 132,
+    "Key": "DREXEL",
+    "School": "Drexel",
+    "Name": "Dragons",
+    "Seed": 16,
+    "GlobalTeamID": 60000132,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "DREXEL"
+  },
+  {
+    "TeamID": 280,
+    "Key": "MISSR",
+    "School": "Missouri",
+    "Name": "Tigers",
+    "Seed": 8,
+    "GlobalTeamID": 60000280,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/280.png",
+    "ShortDisplayName": "MIZZ"
+  },
+  {
+    "TeamID": 32,
+    "Key": "GTECH",
+    "School": "Georgia Tech",
+    "Name": "Yellow Jackets",
+    "Seed": 9,
+    "GlobalTeamID": 60000032,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/32.png",
+    "ShortDisplayName": "GTECH"
+  },
+  {
+    "TeamID": 250,
+    "Key": "COL",
+    "School": "Colorado",
+    "Name": "Buffaloes",
+    "Seed": 5,
+    "GlobalTeamID": 60000250,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/250.png",
+    "ShortDisplayName": "COL"
+  },
+  {
+    "TeamID": 62,
+    "Key": "GEORGE",
+    "School": "Georgetown",
+    "Name": "Hoyas",
+    "Seed": 12,
+    "GlobalTeamID": 60000062,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "GEORGE"
+  },
+  {
+    "TeamID": 94,
+    "Key": "PUR",
+    "School": "Purdue",
+    "Name": "Boilermakers",
+    "Seed": 4,
+    "GlobalTeamID": 60000094,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/94.png",
+    "ShortDisplayName": "PUR"
+  },
+  {
+    "TeamID": 84,
+    "Key": "LIBRTY",
+    "School": "Liberty",
+    "Name": "Flames",
+    "Seed": 13,
+    "GlobalTeamID": 60000084,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/84.png",
+    "ShortDisplayName": "LIBERTY"
+  },
+  {
+    "TeamID": 105,
+    "Key": "OKL",
+    "School": "Oklahoma",
+    "Name": "Sooners",
+    "Seed": 6,
+    "GlobalTeamID": 60000105,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/105.png",
+    "ShortDisplayName": "OU"
+  },
+  {
+    "TeamID": 47,
+    "Key": "STBON",
+    "School": "St. Bonaventure",
+    "Name": "Bonnies",
+    "Seed": 11,
+    "GlobalTeamID": 60000047,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "STBON"
+  },
+  {
+    "TeamID": 276,
+    "Key": "ARK",
+    "School": "Arkansas",
+    "Name": "Razorbacks",
+    "Seed": 3,
+    "GlobalTeamID": 60000276,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/276.png",
+    "ShortDisplayName": "ARK"
+  },
+  {
+    "TeamID": 261,
+    "Key": "COLG",
+    "School": "Colgate",
+    "Name": "Raiders",
+    "Seed": 14,
+    "GlobalTeamID": 60000261,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/261.png",
+    "ShortDisplayName": "COLGATE"
+  },
+  {
+    "TeamID": 96,
+    "Key": "WISC",
+    "School": "Wisconsin",
+    "Name": "Badgers",
+    "Seed": 7,
+    "GlobalTeamID": 60000096,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/96.png",
+    "ShortDisplayName": "WISC"
+  },
+  {
+    "TeamID": 271,
+    "Key": "FL",
+    "School": "Florida",
+    "Name": "Gators",
+    "Seed": 10,
+    "GlobalTeamID": 60000271,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/271.png",
+    "ShortDisplayName": "UFL"
+  },
+  {
+    "TeamID": 109,
+    "Key": "TX",
+    "School": "Texas",
+    "Name": "Longhorns",
+    "Seed": 2,
+    "GlobalTeamID": 60000109,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/109.png",
+    "ShortDisplayName": "UT"
+  },
+  {
+    "TeamID": 156,
+    "Key": "CLVST",
+    "School": "Cleveland State",
+    "Name": "Vikings",
+    "Seed": 15,
+    "GlobalTeamID": 60000156,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "CLVST"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "TeamID": 108,
+    "Key": "BAYL",
+    "School": "Baylor",
+    "Name": "Bears",
+    "Seed": 1,
+    "GlobalTeamID": 60000108,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/108.png",
+    "ShortDisplayName": "BAYLOR"
+  },
+  {
+    "TeamID": 18,
+    "Key": "HARTFD",
+    "School": "Hartford",
+    "Name": "Hawks",
+    "Seed": 16,
+    "GlobalTeamID": 60000018,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "HARTFD"
+  },
+  {
+    "TeamID": 212,
+    "Key": "SDST",
+    "School": "San Diego State",
+    "Name": "Aztecs",
+    "Seed": 8,
+    "GlobalTeamID": 60000212,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/212.png",
+    "ShortDisplayName": "SDSU"
+  },
+  {
+    "TeamID": 103,
+    "Key": "RUTGER",
+    "School": "Rutgers",
+    "Name": "Scarlet Knights",
+    "Seed": 9,
+    "GlobalTeamID": 60000103,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/103.png",
+    "ShortDisplayName": "RUTGERS"
+  },
+  {
+    "TeamID": 58,
+    "Key": "VILL",
+    "School": "Villanova",
+    "Name": "Wildcats",
+    "Seed": 5,
+    "GlobalTeamID": 60000058,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/58.png",
+    "ShortDisplayName": "VILL"
+  },
+  {
+    "TeamID": 252,
+    "Key": "OREGST",
+    "School": "Oregon State",
+    "Name": "Beavers",
+    "Seed": 12,
+    "GlobalTeamID": 60000252,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/252.png",
+    "ShortDisplayName": "ORSTU"
+  },
+  {
+    "TeamID": 29,
+    "Key": "FLST",
+    "School": "Florida State",
+    "Name": "Seminoles",
+    "Seed": 4,
+    "GlobalTeamID": 60000029,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/29.png",
+    "ShortDisplayName": "FSU"
+  },
+  {
+    "TeamID": 180,
+    "Key": "OHIO",
+    "School": "Ohio",
+    "Name": "Bobcats",
+    "Seed": 13,
+    "GlobalTeamID": 60000180,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/180.png",
+    "ShortDisplayName": "OHIO"
+  },
+  {
+    "TeamID": 61,
+    "Key": "CREIGH",
+    "School": "Creighton",
+    "Name": "Bluejays",
+    "Seed": 6,
+    "GlobalTeamID": 60000061,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "CREIGH"
+  },
+  {
+    "TeamID": 30,
+    "Key": "SYRA",
+    "School": "Syracuse",
+    "Name": "Orange",
+    "Seed": 11,
+    "GlobalTeamID": 60000030,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/30.png",
+    "ShortDisplayName": "SYRA"
+  },
+  {
+    "TeamID": 6,
+    "Key": "HOU",
+    "School": "Houston",
+    "Name": "Cougars",
+    "Seed": 3,
+    "GlobalTeamID": 60000006,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/6.png",
+    "ShortDisplayName": "UH"
+  },
+  {
+    "TeamID": 296,
+    "Key": "ABCHR",
+    "School": "Abilene Christian",
+    "Name": "Wildcats",
+    "Seed": 14,
+    "GlobalTeamID": 60000296,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/296.png",
+    "ShortDisplayName": "ABCHR"
+  },
+  {
+    "TeamID": 31,
+    "Key": "VTECH",
+    "School": "Virginia Tech",
+    "Name": "Hokies",
+    "Seed": 7,
+    "GlobalTeamID": 60000031,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/31.png",
+    "ShortDisplayName": "VTECH"
+  },
+  {
+    "TeamID": 92,
+    "Key": "MARY",
+    "School": "Maryland",
+    "Name": "Terrapins",
+    "Seed": 10,
+    "GlobalTeamID": 60000092,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/92.png",
+    "ShortDisplayName": "MARY"
+  },
+  {
+    "TeamID": 98,
+    "Key": "OHIOST",
+    "School": "Ohio State",
+    "Name": "Buckeyes",
+    "Seed": 2,
+    "GlobalTeamID": 60000098,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/98.png",
+    "ShortDisplayName": "OSU"
+  },
+  {
+    "TeamID": 167,
+    "Key": "IONA",
+    "School": "Iona",
+    "Name": "Gaels",
+    "Seed": 15,
+    "GlobalTeamID": 60000167,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "IONA"
+  }
+]

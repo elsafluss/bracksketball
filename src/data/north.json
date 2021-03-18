@@ -1,0 +1,182 @@
+[
+  {
+    "TeamID": 95,
+    "Key": "MICH",
+    "School": "Michigan",
+    "Name": "Wolverines",
+    "Seed": 1,
+    "GlobalTeamID": 60000095,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/95.png",
+    "ShortDisplayName": "MICH"
+  },
+  {
+    "TeamID": 226,
+    "Key": "MSTM",
+    "School": "Mount St. Mary's",
+    "Name": "Mountaineers",
+    "Seed": 16,
+    "GlobalTeamID": 60000226,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "MSMU"
+  },
+  {
+    "TeamID": 331,
+    "Key": "APPLST",
+    "School": "Appalachian State",
+    "Name": "Mountaineers",
+    "Seed": 16,
+    "GlobalTeamID": 60000331,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/331.png",
+    "ShortDisplayName": "APPLST"
+  },
+  {
+    "TeamID": 336,
+    "Key": "BYU",
+    "School": "BYU",
+    "Name": "Cougars",
+    "Seed": 8,
+    "GlobalTeamID": 60000336,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/336.png",
+    "ShortDisplayName": "BYU"
+  },
+  {
+    "TeamID": 269,
+    "Key": "LSU",
+    "School": "LSU",
+    "Name": "Tigers",
+    "Seed": 9,
+    "GlobalTeamID": 60000269,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/269.png",
+    "ShortDisplayName": "LSU"
+  },
+  {
+    "TeamID": 246,
+    "Key": "USC",
+    "School": "USC",
+    "Name": "Trojans",
+    "Seed": 5,
+    "GlobalTeamID": 60000246,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/246.png",
+    "ShortDisplayName": "USC"
+  },
+  {
+    "TeamID": 141,
+    "Key": "NTX",
+    "School": "North Texas",
+    "Name": "Mean Green",
+    "Seed": 12,
+    "GlobalTeamID": 60000141,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/141.png",
+    "ShortDisplayName": "NTX"
+  },
+  {
+    "TeamID": 106,
+    "Key": "KAN",
+    "School": "Kansas",
+    "Name": "Jayhawks",
+    "Seed": 4,
+    "GlobalTeamID": 60000106,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/106.png",
+    "ShortDisplayName": "KANSAS"
+  },
+  {
+    "TeamID": 286,
+    "Key": "NCG",
+    "School": "UNCG",
+    "Name": "Spartans",
+    "Seed": 13,
+    "GlobalTeamID": 60000286,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "NCG"
+  },
+  {
+    "TeamID": 245,
+    "Key": "ORE",
+    "School": "Oregon",
+    "Name": "Ducks",
+    "Seed": 6,
+    "GlobalTeamID": 60000245,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/245.png",
+    "ShortDisplayName": "OREGON"
+  },
+  {
+    "TeamID": 24,
+    "Key": "LOU",
+    "School": "Louisville",
+    "Name": "Cardinals",
+    "Seed": 11,
+    "GlobalTeamID": 60000024,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/24.png",
+    "ShortDisplayName": "LOU"
+  },
+  {
+    "TeamID": 45,
+    "Key": "VCU",
+    "School": "VCU",
+    "Name": "Rams",
+    "Seed": 11,
+    "GlobalTeamID": 60000045,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "VCU"
+  },
+  {
+    "TeamID": 107,
+    "Key": "WVIR",
+    "School": "West Virginia",
+    "Name": "Mountaineers",
+    "Seed": 3,
+    "GlobalTeamID": 60000107,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/107.png",
+    "ShortDisplayName": "WVU"
+  },
+  {
+    "TeamID": 236,
+    "Key": "MHST",
+    "School": "Morehead State",
+    "Name": "Eagles",
+    "Seed": 14,
+    "GlobalTeamID": 60000236,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "MHST"
+  },
+  {
+    "TeamID": 3,
+    "Key": "UCONN",
+    "School": "Connecticut",
+    "Name": "Huskies",
+    "Seed": 7,
+    "GlobalTeamID": 60000003,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/3.png",
+    "ShortDisplayName": "UCONN"
+  },
+  {
+    "TeamID": 97,
+    "Key": "MST",
+    "School": "Michigan State",
+    "Name": "Spartans",
+    "Seed": 10,
+    "GlobalTeamID": 60000097,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/97.png",
+    "ShortDisplayName": "MSU"
+  },
+  {
+    "TeamID": 275,
+    "Key": "ALA",
+    "School": "Alabama",
+    "Name": "Crimson Tide",
+    "Seed": 2,
+    "GlobalTeamID": 60000275,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/275.png",
+    "ShortDisplayName": "ALA"
+  },
+  {
+    "TeamID": 320,
+    "Key": "ORAL",
+    "School": "Oral Roberts",
+    "Name": "Golden Eagles",
+    "Seed": 15,
+    "GlobalTeamID": 60000320,
+    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "ShortDisplayName": "ORAL"
+  }
+]
