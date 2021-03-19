@@ -1,0 +1,9 @@
+.container {
+    background-color: bisque;
+    width: 90%;
+    display: grid;
+    justify-content: center;  
+    align-items: center;
+    margin: auto;
+    padding: 1em;
+}

@@ -6,7 +6,7 @@
     "Name": "Bulldogs",
     "Seed": 1,
     "GlobalTeamID": 60000334,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Gonzaga_Bulldogs_logo.svg/1024px-Gonzaga_Bulldogs_logo.svg.png",
     "ShortDisplayName": "GNZG"
   },
   {
@@ -36,7 +36,7 @@
     "Name": "Ramblers",
     "Seed": 8,
     "GlobalTeamID": 60000209,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Loyola_Ramblers_logo.svg/1024px-Loyola_Ramblers_logo.svg.png",
     "ShortDisplayName": "LOYCH"
   },
   {
@@ -66,7 +66,7 @@
     "Name": "Eagles",
     "Seed": 12,
     "GlobalTeamID": 60000082,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Winthrop_Eagles_logo.svg/1024px-Winthrop_Eagles_logo.svg.png",
     "ShortDisplayName": "WINTH"
   },
   {
@@ -86,7 +86,7 @@
     "Name": "Gauchos",
     "Seed": 13,
     "GlobalTeamID": 60000119,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/UC_Santa_Barbara_Gauchos_logo.svg/1024px-UC_Santa_Barbara_Gauchos_logo.svg.png",
     "ShortDisplayName": "USCB"
   },
   {
@@ -116,7 +116,7 @@
     "Name": "Shockers",
     "Seed": 11,
     "GlobalTeamID": 60000202,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Wichita_State_Shockers_logo.svg/1024px-Wichita_State_Shockers_logo.svg.png",
     "ShortDisplayName": "WICHST"
   },
   {
@@ -176,7 +176,7 @@
     "Name": "Antelopes",
     "Seed": 15,
     "GlobalTeamID": 60000345,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Grand_Canyon_Antelopes_logo.svg/1024px-Grand_Canyon_Antelopes_logo.svg.png",
     "ShortDisplayName": "GCAN"
   }
 ]

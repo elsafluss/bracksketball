@@ -16,7 +16,7 @@
     "Name": "Hawks",
     "Seed": 16,
     "GlobalTeamID": 60000018,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Hartford_Hawks_logo.svg/1024px-Hartford_Hawks_logo.svg.png",
     "ShortDisplayName": "HARTFD"
   },
   {
@@ -86,7 +86,7 @@
     "Name": "Bluejays",
     "Seed": 6,
     "GlobalTeamID": 60000061,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Creighton_Bluejays_logo.svg/1024px-Creighton_Bluejays_logo.svg.png",
     "ShortDisplayName": "CREIGH"
   },
   {
@@ -156,7 +156,7 @@
     "Name": "Gaels",
     "Seed": 15,
     "GlobalTeamID": 60000167,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Iona_College_Athletics_Primary_Logo.png/1024px-Iona_College_Athletics_Primary_Logo.png",
     "ShortDisplayName": "IONA"
   }
 ]

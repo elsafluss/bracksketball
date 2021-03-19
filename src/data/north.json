@@ -16,7 +16,7 @@
     "Name": "Mountaineers",
     "Seed": 16,
     "GlobalTeamID": 60000226,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Mount_St._Mary%27s_Mountaineers_logo.svg/1024px-Mount_St._Mary%27s_Mountaineers_logo.svg.png",
     "ShortDisplayName": "MSMU"
   },
   {
@@ -86,7 +86,7 @@
     "Name": "Spartans",
     "Seed": 13,
     "GlobalTeamID": 60000286,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/UNCG_Spartans_logo.svg/1024px-UNCG_Spartans_logo.svg.png",
     "ShortDisplayName": "NCG"
   },
   {
@@ -116,7 +116,7 @@
     "Name": "Rams",
     "Seed": 11,
     "GlobalTeamID": 60000045,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/VCU_Rams_logo.svg/1024px-VCU_Rams_logo.svg.png",
     "ShortDisplayName": "VCU"
   },
   {
@@ -136,7 +136,7 @@
     "Name": "Eagles",
     "Seed": 14,
     "GlobalTeamID": 60000236,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Morehead_State_Eagles_logo.svg/1024px-Morehead_State_Eagles_logo.svg.png",
     "ShortDisplayName": "MHST"
   },
   {
@@ -176,7 +176,7 @@
     "Name": "Golden Eagles",
     "Seed": 15,
     "GlobalTeamID": 60000320,
-    "TeamLogoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png",
+    "TeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Oral_Roberts_Golden_Eagles_logo.svg/1024px-Oral_Roberts_Golden_Eagles_logo.svg.png",
     "ShortDisplayName": "ORAL"
   }
 ]

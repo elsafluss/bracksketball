@@ -1,5 +1,6 @@
 import React, { Component } from "react"
-import Either from './Either'
+import './PickWinner.css'
+import Either from "./Either"
 
 class PickWinner extends Component {
     constructor() {
@@ -27,7 +28,7 @@ class PickWinner extends Component {
           const pair7 = this.getPairing(7, 10)
           const pair8 = this.getPairing(2, 15)
           return (
-            <div>
+            <div className="container">
               <div>Which mascot would win?</div>
               <Either teams={pair1} />
               <br></br>
